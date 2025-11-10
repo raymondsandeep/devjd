@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: devpool
+pool: devpool2
 
 steps:
 - script: |
